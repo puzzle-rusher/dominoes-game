@@ -1,0 +1,5 @@
+COMPUTER_TURN_STATUS = "computer"
+PLAYER_TURN_STATUS = "player"
+PLAYER_WON_STATUS = "won: player"
+COMPUTER_WON_STATUS = "won: computer"
+DRAW_STATUS = "draw"
